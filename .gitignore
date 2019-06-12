@@ -1,0 +1,5 @@
+data/tmp
+models/tmp
+logs/*
+i_*
+__*
